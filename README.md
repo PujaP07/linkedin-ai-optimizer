@@ -265,15 +265,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If this project helped optimize your LinkedIn profile or land a remote job, please ⭐ star this repository and share it with others!
 
----
-
-## 📊 Project Stats
-
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/linkedin-ai-optimizer?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/linkedin-ai-optimizer?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/linkedin-ai-optimizer)
-
----
-
 **Built with ❤️ for remote job seekers worldwide**
 # linkedin-ai-optimizer
