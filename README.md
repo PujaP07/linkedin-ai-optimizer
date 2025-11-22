@@ -179,20 +179,7 @@ PyPDF2>=3.0.0
 
 ---
 
-## 📸 Screenshots
-
-### Input Interface
-![Input Tab](screenshots/input-tab.png)
-*Multiple methods to import your LinkedIn profile*
-
-### Multi-Agent Analysis
-![Analysis Tab](screenshots/analysis-tab.png)
-*Watch AI agents analyze your profile in real-time*
-
-### Optimized Results
-![Results Tab](screenshots/results-tab.png)
-*Get ATS-optimized, keyword-rich profile content*
-
+## 📸 Demo Link   https://www.loom.com/share/c449de0a1f994fc9a011611d8147ddf6
 ---
 
 ## 🎯 Use Cases
